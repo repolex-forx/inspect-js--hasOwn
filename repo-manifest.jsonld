@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/inspect-js/hasOwn/commit/65c9fc9cabca2f10170a5d037d2f7f9f6380e80f",
       "git:hexsha": "65c9fc9cabca2f10170a5d037d2f7f9f6380e80f",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/inspect-js/hasOwn/commit/3d2124e9b0ac47eccc3a0ef6294b3c590e663694",
